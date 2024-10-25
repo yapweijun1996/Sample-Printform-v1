@@ -27,3 +27,7 @@ The provided JavaScript manages the layout and the printing process. You can mod
 1. papersize_width: Width of the paper for printing.
 2. papersize_height: Height of the paper for printing.
 3. repeat_header, repeat_docinfo, repeat_rowheader, repeat_footer: Control the repetition of sections during printing.
+
+## Demo
+### Github
+https://yapweijun1996.github.io/Sample-Printform-v1/
